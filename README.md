@@ -9,7 +9,7 @@ Well Paired seq single cell data visualization can be achieved through CellFocus
 
 ---
 
-Detailed operation documents can be found in [here](https://github.com/DynamicBiosystems/CellFocus/blob/main/doc/CellFocus-v1.0.1_operation_manual.pdf)
+Detailed operation documents can be found in [here](https://github.com/DynamicBiosystems/CellFocus/blob/main/docs/CellFocus-v1.0.1_operation_manual.pdf)
 
 #### Load data
 
