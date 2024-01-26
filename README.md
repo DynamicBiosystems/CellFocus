@@ -9,7 +9,7 @@ CellFocus is a visualization software for single-cell transcriptome data on the 
 
 ---
 
-Detailed operation documents can be found in [here](https://github.com/DynamicBiosystems/CellFocus/blob/main/docs/CellFocus-v1.0.1_operation_manual.pdf)
+Detailed operation documents can be found in [here](https://github.com/DynamicBiosystems/CellFocus/blob/main/docs/CellFocus-v1.0.1_operation_manual.pdf).
 
 #### Load data
 
