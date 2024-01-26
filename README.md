@@ -3,7 +3,9 @@
 ### CellFocus introduction
 ---
 
-Well Paired seq single cell data visualization can be achieved through CellFocus software to display interactive cell clustering results, assist in manual annotation, display differential genes, and display gene and gene set scores. It also has the export function of images and tables, making it convenient for users to explore personalized data and annotate artificial cells without coding. The software is free of installation and can be used by decompressing and compressing the package.
+CellFocus is a visualization software for single-cell transcriptome data on the well-paired-seq (WPS) platform. CellFocus includes many interactive visualization functions, such as displaying cell clustering results, showing differential gene tables, presenting gene expression information, and assisting in manual cell type annotation. It can also export images and table data. In summary, it is convenient to explore personalized data and perform manual cell type identification without programming knowledge.
+
+For more information about the WPS platform, click ![here](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202200341).
 
 ### Manual
 
