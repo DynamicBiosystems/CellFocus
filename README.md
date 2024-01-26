@@ -9,7 +9,7 @@ CellFocus is a visualization software for single-cell transcriptome data on the 
 
 ---
 
-Detailed operation documents can be found in [here](https://github.com/DynamicBiosystems/CellFocus/blob/main/docs/CellFocus-v1.0.1_operation_manual.pdf).
+Detailed operation documents can be found in [here](https://github.com/DynamicBiosystems/CellFocus/blob/main/docs/CellFocus-v1.0.2_operation_manual.pdf).
 
 #### Load data
 
@@ -75,7 +75,7 @@ The elements in this panel allow you to view expression of genes.
 
 - **Main parameters**: 
 The elements in this panel allow you to control what and how results are displayed across the whole tab.
-    - **Gene(s) / Gene set**: Select whether you would like to select individual genes or gene sets. In the case of 'Gene(s)', you can select one or multiple genes from the input field below. If you select multiple genes, the mean expression across the selected genes will be calculated for each cell. If you select 'Gene set', you can select a gene set from the MSigDB. Species-specific gene names will be tried to retrieve, otherwise gene name matching is attempted. A list of which genes are present or missing in the data set can be found below the projection.
+    - **Gene(s)**: You can select one or multiple genes from the input field below. If you select multiple genes, the mean expression across the selected genes will be calculated for each cell. Species-specific gene names will be tried to retrieve, otherwise gene name matching is attempted. A list of which genes are present or missing in the data set can be found below the projection.
     - **Projection**: Select here which projection you want to see in the scatter plot on the right.
 
 - **Additional parameters**: 
@@ -84,12 +84,6 @@ The elements in this panel allow you to control what and how results are display
     - **Point size**: Controls how large the cells should be.
     - **Point opacity**: Controls the transparency of the cells.
     - **Show % of cells**: Using the slider, you can randomly remove a fraction of cells from the plot. This can be useful for large data sets and/or computers with limited resources.
-
-#### Gene ID conversion
-
----
-
-Conversion table containing Gencode identifiers, Ensembl identifiers, Havana identifiers, gene symbol and gene type for mouse and human.
 
 #### Color managerment
 
