@@ -5,8 +5,6 @@
 
 CellFocus is a visualization software for single-cell transcriptome data on the well-paired-seq (WPS) platform. CellFocus includes many interactive visualization functions, such as displaying cell clustering results, showing differential gene tables, presenting gene expression information, and assisting in manual cell type annotation. It can also export images and table data. In summary, it is convenient to explore personalized data and perform manual cell type identification without programming knowledge.
 
-For more information about the WPS platform, click ![here](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202200341).
-
 ### Manual
 
 ---
